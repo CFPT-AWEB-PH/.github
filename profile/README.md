@@ -1,4 +1,4 @@
-# Atelier Nouvelles Technologies (CFPT-EI)
+# Atelier WEB (CFPT-EI)
 ## Documentation
 
 ### À quoi sert un README sur GitHub ?
