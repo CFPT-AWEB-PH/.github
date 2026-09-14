@@ -6,7 +6,6 @@
 Un fichier `README.md` est la porte d’entrée d’un dépôt GitHub. Il donne une vue d’ensemble du projet et permet à une personne qui découvre le dépôt de comprendre rapidement son objectif, son installation, son utilisation et l’emplacement de la documentation détaillée. GitHub affiche généralement ce fichier sur la page principale du dépôt.
 
 - [À propos du fichier README — GitHub Docs](https://docs.github.com/fr/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-- [Syntaxe Markdown de base — GitHub Docs](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Cheat sheet Markdown GitHub
 
@@ -19,7 +18,6 @@ Le cahier des charges définit le besoin auquel le projet doit répondre. Il ser
 
 1. [ORSYS le mag — Projet informatique : comment rédiger un bon cahier des charges](https://www.orsys.fr/orsys-lemag/projet-informatique-comment-rediger-un-bon-cahier-des-charges/)
 2. [TopExemples — Exemple de cahier des charges de projet informatique](https://topexemples.fr/exemple-de-cahier-des-charges-projet-informatique/)
-3. [ISO/IEC/IEEE 29148:2018 — Requirements engineering](https://www.iso.org/standard/72089.html)
 
 ### La méthode en 6 étapes, quésaco ?
 
